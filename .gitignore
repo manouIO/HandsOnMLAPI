@@ -1,0 +1,10 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Data/Model files (Optional - see note below)
+# models/*.joblib
