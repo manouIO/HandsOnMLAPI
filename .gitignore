@@ -1,10 +1,27 @@
 # Python environment
 venv/
 __pycache__/
+__init__.py
 *.pyc
 
 # OS files
 .DS_Store
 
 # Data/Model files (Optional - see note below)
+images/
+data/
+demos/
+computer_vision/data/
+computer_vision/google_images/
 # models/*.joblib
+models/
+# models/01_pytorch_workflow_model_0.pth
+# models/01_pytorch_workflow_model_1.pth
+# models/03_pytorch_computer_vision_model_2.pth
+# models/07_effnetb2_data_20_percent_10_epochs.pth
+# models/house_model_pytorch.pth
+# models/model_0_classification.pth
+
+KandM/Training_Data_Set.csv
+KandM/KM_Supply_Chain_Forecast.xlsx
+KandM/screenshots
